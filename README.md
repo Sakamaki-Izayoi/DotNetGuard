@@ -31,7 +31,6 @@
     C# And VB.Net
 	
 ### License
-
-    [dnlib](https://github.com/0xd4d/dnlib/blob/master/LICENSE.txt)
-    [KoiVM](https://github.com/yck1509/KoiVM/blob/master/README.md)
-    [Mono-Cecil](https://github.com/mono/cecil/wiki/License)
+    dnlib: https://github.com/0xd4d/dnlib/blob/master/LICENSE.txt
+    KoiVM: https://github.com/yck1509/KoiVM/blob/master/README.md
+    Mono-Cecil: https://github.com/mono/cecil/wiki/License
