@@ -8,12 +8,10 @@
     * Arithmetic
     * Control flow
     * Control flow 2
-    * DNG VM
     * Drag & drop
     * KoiVM
     * Pack
     * Rename
-    * Resource
     * Signer
     * String Encryption
 	
@@ -31,9 +29,6 @@
 	
 ### Support
     C# And VB.Net
-	
-### Contact
-    droidguardprotector@gmail.com
 	
 ### License
     dnlib: https://github.com/0xd4d/dnlib/blob/master/LICENSE.txt
