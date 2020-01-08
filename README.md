@@ -9,7 +9,7 @@
     * Control flow
     * Control flow 2
     * Drag & drop
-    * KoiVM
+    * KoiVM Light Mod
     * Pack
     * Rename
     * Signer
